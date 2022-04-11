@@ -37,4 +37,5 @@ With the imagery collected from the most recent Landsat-8, one of NASA's latest 
 reflectance data and track changes as seen from space, along with filtering algorithms to produce the required reflectance band data, we can analyze the regions of high water content
 of a specific territory along with a choice of time period to perform time series analysis of the same to study variations in different weather conditions.
 
-![image](https://user-images.githubusercontent.com/73461681/162727152-a9011795-4588-4686-b198-bdd18bb2e7e9.png)
+![image](https://user-images.githubusercontent.com/73461681/162727152-a9011795-4588-4686-b198-bdd18bb2e7e9.png) ![image](https://user-images.githubusercontent.com/73461681/162727298-2ba476e0-1a58-43d3-9947-708825e0e973.png)
+
