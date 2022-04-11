@@ -40,7 +40,7 @@ of a specific territory along with a choice of time period to perform time serie
 ![image](https://user-images.githubusercontent.com/73461681/162727152-a9011795-4588-4686-b198-bdd18bb2e7e9.png) ![image](https://user-images.githubusercontent.com/73461681/162727298-2ba476e0-1a58-43d3-9947-708825e0e973.png)
 
 
-**Google Earh Engine **  is a web-based IDE for the Earth Engine JavaScript API. Code Editor features are designed to make developing complex geospatial workflows fast and easy.
+**Google Earh Engine**  is a web-based IDE for the Earth Engine JavaScript API. Code Editor features are designed to make developing complex geospatial workflows fast and easy.
 
 
 **Link to the Google Earth Engine Code:**
