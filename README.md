@@ -1,6 +1,7 @@
-##NDWI-using-GEE
+## NDWI-using-GEE
 
-#Remote sensing# is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft).
+# Remote sensing 
+It is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft).
 Special cameras collect remotely sensed images, which help researchers "sense" things about the Earth. Some examples are:
 
     1. Cameras on satellites and airplanes take images of large areas on the Earth's surface, allowing us to see much more than we can see when standing on the ground.
@@ -22,9 +23,9 @@ in  both  the  vegetation  water  content  and  the  spongy  mesophyll  structur
 while the NIR reflectance is affected by leaf internal structure and leaf dry matter content but not by 
 water  content.
 
---
+---
 
-#Applications:
+# Applications:
 During  drought  event,  vegetation  canopy  can  be  affected  by  water  stress.  This  can  have  major 
 impact on the plant development in general and can cause crop failure or lower crop production in 
 agricultural areas. Early recognition of plant water stress can be critical to prevent such 
@@ -42,9 +43,9 @@ of a specific territory along with a choice of time period to perform time serie
 
 ---
 
-#Google Earth Engine
+# Google Earth Engine
 It is a web-based IDE for the Earth Engine JavaScript API. Code Editor features are designed to make developing complex geospatial workflows fast and easy.
 
 
 **Link to the Google Earth Engine Code:**
-https://code.earthengine.google.com/ed98cbc104c8601c3c4045e2b3411d9b
+    https://code.earthengine.google.com/ed98cbc104c8601c3c4045e2b3411d9b
