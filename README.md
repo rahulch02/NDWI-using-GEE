@@ -1,4 +1,4 @@
-##NDWI-using-GEE##
+##NDWI-using-GEE
 
 #Remote sensing# is the process of detecting and monitoring the physical characteristics of an area by measuring its reflected and emitted radiation at a distance (typically from satellite or aircraft).
 Special cameras collect remotely sensed images, which help researchers "sense" things about the Earth. Some examples are:
@@ -24,7 +24,7 @@ water  content.
 
 --
 
-#Applications:#
+#Applications:
 During  drought  event,  vegetation  canopy  can  be  affected  by  water  stress.  This  can  have  major 
 impact on the plant development in general and can cause crop failure or lower crop production in 
 agricultural areas. Early recognition of plant water stress can be critical to prevent such 
@@ -42,7 +42,7 @@ of a specific territory along with a choice of time period to perform time serie
 
 ---
 
-#Google Earth Engine#
+#Google Earth Engine
 It is a web-based IDE for the Earth Engine JavaScript API. Code Editor features are designed to make developing complex geospatial workflows fast and easy.
 
 
